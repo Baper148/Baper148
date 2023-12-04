@@ -1,8 +1,9 @@
 - 👋 Hi, I’m @Baper148
-- 👀 I’m interested in ...
-- 🌱 I’m currently learning ...
-- 💞️ I’m looking to collaborate on ...
-- 📫 How to reach me ...
+- 👀 I’m interested in brute force attacks, phishing and firewalls 
+- 🌱 I’m currently learning python 
+- 💞️ I’m looking to collaborate on termux social media security interface
+- 📫 How to reach me https://www.facebook.com/profile.php?id=100052406722433
+- 
 
 <!---
 Baper148/Baper148 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
